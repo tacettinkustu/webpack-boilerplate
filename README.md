@@ -1,20 +1,19 @@
 # Webpack-Template
 
-It has been prepared to be used as a template in the projects to be built within the scope of Microverse Course. The required tools have been added to the template.
+* It has been prepared to be used as a template in the projects to be built within the scope of Microverse Course. The required tools have been added to the template.
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/51737508/125679914-d38af794-48f5-4484-81cd-7e141b3e9a66.PNG)
+![Webpack](https://www.ma-no.org/cache/galleries/contents-1806/webpack-how-it-works.jpeg)
 
 
-
-It is built as a part of Microverse Web Developer Course. ES6 and Webpack was used in this template.
+* It is built as a part of Microverse Web Developer Course. ES6 and Webpack was used in this template.
 
 ## Built With
 
--Javascript
+* Javascript
 
 ## Prerequisites
 
--NodeJS - v16.x
+* NodeJS - v16.x
 
 ## Getting Started
 
